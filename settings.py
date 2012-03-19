@@ -11,6 +11,7 @@ ADMINS = (
     ('Jakub Wasielak', 'kuba.wasielak@gmail.com'),
 )
 #komentarz
+#cos
 MANAGERS = ADMINS
 
 DATABASES = {
