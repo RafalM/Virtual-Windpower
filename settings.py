@@ -10,7 +10,7 @@ PROJECT_ROOT = os.path.dirname(__file__)
 ADMINS = (
     ('Jakub Wasielak', 'kuba.wasielak@gmail.com'),
 )
-
+#komentarz
 MANAGERS = ADMINS
 
 DATABASES = {
